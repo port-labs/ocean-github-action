@@ -5,7 +5,7 @@
   "author": "yair <yairsimantov20@gmail.com>",
   "license": "Apache-2.0",
   "dependencies": {
-    "action-docs": "^2.1.0"
+    "action-docs": "^2.4.2"
   },
   "scripts": {
     "ghadocs": "action-docs -u"
